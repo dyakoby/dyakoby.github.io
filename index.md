@@ -11,4 +11,5 @@
 ![Complaints](dyakoby.github.io/complaints.png)
 
 ### Top Complaint Map: Electronics Waste 
-![Top Complaint](https://dyakoby.github.io/complaintMap.html)
+#### copy and paste the following URL to access an interactive map of Todt Hill's top complaint! 
+https://dyakoby.github.io/complaintMap.html
