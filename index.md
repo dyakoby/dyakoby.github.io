@@ -1,1 +1,1 @@
-![HC6](/HC6.pdf)
+![HC6](dyakoby.github.io/HC6.pdf)
