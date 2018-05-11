@@ -10,6 +10,6 @@
 ### Biggest 311 Complaints 
 ![Complaints](dyakoby.github.io/complaints.png)
 
-### Top Complaint Map: Electronics Waste 
-#### copy and paste the following URL to access an interactive map of Todt Hill's top complaint! 
-https://dyakoby.github.io/complaintMap.html
+###:round_pushpin: Top Complaint Map: Electronics Waste 
+#### *copy and paste the following URL to access an interactive map of Todt Hill's top complaint!* 
+[Top Complaint](https://dyakoby.github.io/complaintMap.html)
