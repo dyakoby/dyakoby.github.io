@@ -1,10 +1,10 @@
 # Todt Hill, Staten Island
-## Additional Housing Project                                                    By Daniela Yakobashvili          
+## Additional Housing Project                    By Daniela Yakobashvili          
 
 ### Neighborhood Outline
 ![HC6](dyakoby.github.io/HC6.png)
 
-### General Information & Demographics 
+### General Information & Demographics
 ![Basic Information](dyakoby.github.io/Basic.png)
 
 ### Biggest 311 Complaints 
