@@ -11,4 +11,4 @@
 ![Complaints](dyakoby.github.io/complaints.png)
 
 ### Top Complaint Map: Electronics Waste 
-![Top Complaint](dyakoby.github.io/complaintMap.png)
+![Top Complaint](dyakoby.github.io/complaintMap.html)
