@@ -25,9 +25,9 @@
 
 
 ### **Additional Housing Project**
-![Housing](dyakoby.github.io/AddHousing.png)
+![Housing](dyakoby.github.io/Housing.png)
 
 
 
 ### **Additional Services**
-![Housing](dyakoby.github.io/Services.png)
+![Housing](dyakoby.github.io/Service.png)
